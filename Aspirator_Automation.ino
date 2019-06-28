@@ -1,6 +1,6 @@
 
 
-// CH4_Temperature_Humidity_Fan_Controller_System v0.78 Beta
+// Aspirator Automation v0.78 Alpha
 
  
 #include <DHT.h>
